@@ -1,0 +1,21 @@
+#Ignoring system files
+.DS_Store
+
+#Ignoring MS Offise support files
+*.xlsx
+*.docx
+*.numbers
+*.doc
+
+#Ignoring tex auxiliary and output files
+*.aux
+*.out
+*.gz
+*.bak
+*.log
+
+#MagicPlot project
+*.mppz
+
+#Jupyter notebook checkpoints
+.ipynb*
